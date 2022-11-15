@@ -4,7 +4,7 @@ Completed React Admin Dashboard Repo
 
 ## Live Preview
 
-  [Click Here]([https://my-portfolio-nine-gules.vercel.app/](https://sparkly-pothos-bfb70d.netlify.app/)) 👈
+  [Click Here][https://my-portfolio-nine-gules.vercel.app/](https://sparkly-pothos-bfb70d.netlify.app/)) 👈
   
 
 
