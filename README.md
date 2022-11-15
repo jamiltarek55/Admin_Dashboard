@@ -4,7 +4,7 @@ Completed React Admin Dashboard Repo
 
 ## Live Preview
 
-  [Click Here][https://my-portfolio-nine-gules.vercel.app/](https://sparkly-pothos-bfb70d.netlify.app/)) 👈
+  [Click Here](https://sparkly-pothos-bfb70d.netlify.app/) 👈
   
 
 
@@ -13,7 +13,7 @@ Completed React Admin Dashboard Repo
 ### Just follow this steps:
 Download the zip file from the github link
 then extract the zip file on your system 
-go the project direct as <br/>  `my-portfolio`
+go the project direct as <br/>  `Admin_Dashboard`
 
 <li>Then you will have to type the following command, depending on what you have installed, npm or yarn.</li>
 
@@ -34,7 +34,7 @@ go the project direct as <br/>  `my-portfolio`
   <li>In your system console write </li>
   
   `git init`<br/>
-  `git clone https://github.com/jamiltarek55/my-portfolio && cd my-portfolio`
+  `git clone https://github.com/jamiltarek55/Admin_Dashboard && cd Admin_Dashboard`
 
   <li>Then you will have to type the following command, depending on what you have installed, npm or yarn.</li>
   
